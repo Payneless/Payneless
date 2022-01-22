@@ -7,7 +7,7 @@ I'm Jake Payne, and I'm a software engineer. Sound a bit like a robot? Yea I agr
 I attended a small high school in central Illinois growing up, where I played 🏀 and ⛳. I even managed to finish top 50 at state my senior year! I've always been a pretty big 🖥️ gamer, playing such titles as League of Legends and Pokemon! I also love collectible card games, like Magic: the Gathering and Yu-gi-oh! I spent the remaining free time I had just surfing the internet to learn this, that, and anything else my mind could digest at the time!
 
 Afterward, I ventured onward to new grounds, expanding my horizons by going on my own to <img align="center" width="3%" src=https://user-images.githubusercontent.com/26901356/150296303-053a0b3e-1ac9-4ce4-86df-26d167eda6ad.png />  
-While there, I pursued a degree in Medical Lab Sciences, which ahd me take some scary but rewarding courses such as:
+While there, I pursued a degree in Medical Lab Sciences, which had me take some scary but rewarding courses such as:
 <ul>
   <li> Clinical Hematology </li>
   <li> Clinical Chemisty </li>

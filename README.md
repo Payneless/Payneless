@@ -35,7 +35,7 @@ As a clinical lab scientist, your duty is to perform daily maintenance tasks on 
 - I helped deliver blood to people in dire need to save their life! On the less exciting side, I also got to see various kinds of bodily cells under microscopes. Here's one: <img align="center" width="5%" src="https://cdn.discordapp.com/attachments/920440490548146189/933634974408671262/IMG_20191101_050710_01.jpg" />
 
 I performed this position at two different hospitals, moving across the country in between jobs ✈️ ---- 🏜️ from Illinois to Arizona!  
-After a while, I realized I much more preferred figuring out and working on the computer aspect of each machine, and realized the software they currently used in the laboratory was pretty oudated 🤔. That led me to Software Engineering / Programming!
+After a while, I realized I much more preferred figuring out and working on the computer aspect of each machine, and realized the software they currently used in the laboratory was pretty outdated 🤔. That led me to Software Engineering / Programming!
 
 ## ⌨️ Software Engingeering 
 

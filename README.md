@@ -37,7 +37,7 @@ As a clinical lab scientist, your duty is to perform daily maintenance tasks on 
 I performed this position at two different hospitals, moving across the country in between jobs ✈️ ---- 🏜️ from Illinois to Arizona!  
 After a while, I realized I much more preferred figuring out and working on the computer aspect of each machine, and realized the software they currently used in the laboratory was pretty outdated 🤔. That led me to Software Engineering / Programming!
 
-## ⌨️ Software Engingeering 
+## ⌨️ Software Engineering 
 
 I love doing this. Figuring out the bugs and problems before and after they arise, creating a way to provide a function or service from complete scratch, even those late, long nights of grinding away with music on in the background as you ponder what to name this temporary variable that you only ever access once, but you want to preserve the thought process in the name so others understand what you were doing, I love it all! (Listen, I know that was a run on, but I just liked the way it sounded as I read it to myself.)
 
